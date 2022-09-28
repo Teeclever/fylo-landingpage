@@ -34,11 +34,11 @@ Users should be able to:
 
 ### Screenshot
 -Deskyopesktop view of my work
-![](./images/desktopview.png.jpg)
+![](/images/desktopview.png.jpg)
 
 
 -The mobile view of same work
-![](./images/mobileview.png.png.jpg)
+![](/images/mobileview.png.png.jpg)
 
 
 
